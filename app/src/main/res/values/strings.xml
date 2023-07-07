@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WIMT</string>
+    <string name="spot">SPOT</string>
+    <string name="pnr">PNR</string>
+    <string name="tickets">TICKETS</string>
+    <string name="viewpager">viewpager</string>
+    <string name="menu">menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
