@@ -10,7 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/ic_menu"
-        android:contentDescription="@string/menu" />
+        android:contentDescription="@string/menu"
+        android:foreground="?android:attr/selectableItemBackground"/>
 
     <TextView
         android:id="@+id/titleText"
@@ -28,6 +29,7 @@
         android:src="@drawable/ic_more"
         android:layout_gravity="end"
         android:layout_marginEnd="16dp"
-        android:contentDescription="@string/menu" />
+        android:contentDescription="@string/menu"
+        android:foreground="?android:attr/selectableItemBackground"/>
 
 </androidx.appcompat.widget.Toolbar>
